@@ -1,5 +1,5 @@
 
-# Hi, I'm May 👋
+# Hi, I'm May <img src="./may-wave.gif" width="48" alt="Waving pixel mascot">
 <img align="right" width="170" src="./may-ai-mascot.gif" alt="AI mascot coding on a laptop">
 
 ### Former Software Engineer at LinkedIn · Machine Learning & AI
