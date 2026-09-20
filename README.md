@@ -1,6 +1,6 @@
-<img align="right" width="250" src="./may-ai-mascot.gif" alt="AI mascot coding on a laptop">
 
 # Hi, I'm May 👋
+<img align="right" width="170" src="./may-ai-mascot.gif" alt="AI mascot coding on a laptop">
 
 ### Former Software Engineer at LinkedIn · Machine Learning & AI
 
