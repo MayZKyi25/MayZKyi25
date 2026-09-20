@@ -2,9 +2,8 @@
 # Hi, My name is May <img src="./may-wave.gif" height="58" align="middle" alt="Waving pixel mascot">
 <img align="right" width="170" src="./may-ai-mascot.gif" alt="AI mascot coding on a laptop">
 
-### Former Software Engineer at LinkedIn · Machine Learning & AI
-
-I build practical AI products and machine-learning systems, with a focus on understanding how models work—not only how to call them through an API.
+### I'm a Machine Learning Engineer | LinkedIn Alum
+I build practical GenAI products and machine-learning systems, with experience developing prototypes, evaluating model performance, and debugging production systems. I care about understanding how models work so I can build solutions that are useful, measurable, and reliable. 
 
 <a href="https://www.linkedin.com/in/mayzkyi/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,7 +20,7 @@ I build practical AI products and machine-learning systems, with a focus on unde
 
 ## About me
 
-- 💼 Previously worked at **LinkedIn** as a Software Engineer in ML & AI
+- 💼 Worked at **LinkedIn** as a Software Engineer in ML & AI
 - 🤖 Interested in language models, applied machine learning, evaluation, and reliable AI systems
 - 🧩 I enjoy turning ambiguous problems into measurable, user-focused solutions
 - 🌏 I care about building technology with meaningful human and social impact
