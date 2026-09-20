@@ -106,8 +106,12 @@ Looking for    → AI/ML and software-engineering opportunities
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MayZKyi25&show_icons=true&theme=tokyonight&hide_border=true" alt="May's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayZKyi25&layout=compact&theme=tokyonight&hide_border=true" alt="May's most used languages">
+  <a href="https://github.com/MayZKyi25">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=MayZKyi25&show_icons=true&theme=tokyonight&hide_border=true" alt="May's GitHub statistics">
+  </a>
+  <a href="https://github.com/MayZKyi25?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MayZKyi25&layout=compact&theme=tokyonight&hide_border=true" alt="May's most used languages">
+  </a>
 </div>
 
 ---
